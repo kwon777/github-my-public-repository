@@ -5,3 +5,5 @@ I love :house: :coffee:, and :golf:.
 My new favorite sport is :basketball:.
 
 //TODO add a configuration entry
+
+I also love :tea:.

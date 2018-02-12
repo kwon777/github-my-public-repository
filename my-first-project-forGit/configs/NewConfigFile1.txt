@@ -3,3 +3,5 @@ This is a configurations file.
 I love :house: :coffee:, and :golf:.
 
 //TODO add a configuration entry
+
+I also love :tea:.

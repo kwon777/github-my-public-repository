@@ -2,4 +2,6 @@ This is a configurations file.
 
 I love :house: :coffee:, and :golf:.
 
+My new favorite sport is :basketball:.
+
 //TODO add a configuration entry
